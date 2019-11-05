@@ -1,0 +1,26 @@
+Student JSON example:
+
+{
+    "id": 234324324,
+    "firstName": "Thancred",
+    "lastName": "Waters",
+    "email": "twaters@wisc.edu",
+    "currentYear": "Junior",
+    "major": "Magitek Sciences",
+}
+
+Course JSON example:
+
+{
+    "courseListing": "MS 232",
+    "courseName": "Gunblades and You",
+    "assignments": [{
+        "name": "Loading Cartridges",
+        "grades": [{
+            "234324324": "A",
+            "232341232", "BC",
+            "312312312", "F",
+            ...,
+        }] 
+    },]
+}
