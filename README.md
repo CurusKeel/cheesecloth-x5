@@ -6,3 +6,6 @@ Team members:
 * Drew Coe (@Dr-ewC)
 * Kevin Fang (@kfang22)
 * Ryan Brown (@rjbrown38)
+
+
+Primary stakeholders: Instructors that need to add, view, edit, remove, etc. a student’s profile.
