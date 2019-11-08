@@ -16,4 +16,14 @@ the grades for specific assignments. Instructor will also be able to check atten
 
 **Data:** Data of the student will include grade for the class, grades for specific assignments, details of specific assignments, student year, attendance, etc. A hash table will be used to organize the students and will use more hash tables to organize specific data on students such as attendance and grades for specific assignments. Each lecture number will have its own unique list of students and student profiles.
 
+## Application Flow
+
 ![Application Flow](gui-implementation.jpg)
+
+## Data Structure
+
+![Data Structure Example](data-structure-example.jpg)
+
+## Example Output (GUI)
+
+![Example Output](x5-outputexample.png)
